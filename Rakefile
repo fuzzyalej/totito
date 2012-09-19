@@ -13,8 +13,8 @@ require 'rake'
 
 require 'jeweler'
 Jeweler::Tasks.new do |gem|
-  gem.name = "babelfish"
-  gem.homepage = "http://github.com/fuzzyalej/babelfish"
+  gem.name = "totito"
+  gem.homepage = "http://github.com/redradix/totito"
   gem.license = "MIT"
   gem.summary = %Q{Model i18n/translations}
   gem.description = %Q{This simple gem helps with model translations and internationalization}

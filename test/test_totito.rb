@@ -1,13 +1,13 @@
 require 'helper'
 
 class TestClass
-  include Babelfish
+  include Totito
   translates :a, :b, :c
 end
 
 class I18n; end
 
-class TestBabelfish < Test::Unit::TestCase
+class TestTotito < Test::Unit::TestCase
   context 'translates' do
     setup do
       @model = TestClass.new

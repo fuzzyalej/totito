@@ -1,4 +1,4 @@
-module Babelfish
+module Totito
 
   def self.included(base)
     base.extend ClassMethods
