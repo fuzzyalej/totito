@@ -1,5 +1,0 @@
-= Totito
-
-This is a simple gem to aid in the translation of Rails models, using I18n.
-
-by redradix.com
